@@ -1,31 +1,1141 @@
 Degree,Specialization,CGPA,JobRole
-B.Tech,Computer Science,8.5,Software Engineer
-B.Tech,AI & ML,9.0,ML Engineer
-B.Sc,Data Science,7.8,Data Analyst
+B.Tech,Computer Science,8.2,Software Engineer
+B.Tech,Computer Science,7.9,Backend Developer
+B.Tech,Computer Science,8.7,Full Stack Developer
+B.Tech,Information Technology,8.1,System Engineer
+B.Tech,Information Technology,7.6,Network Engineer
+B.Tech,AI & ML,8.9,ML Engineer
+B.Tech,AI & ML,8.4,AI Engineer
+B.Sc,Data Science,8.0,Data Analyst
+B.Sc,Data Science,8.6,Data Scientist
+B.Sc,Statistics,7.8,Data Analyst
+B.Sc,Statistics,8.2,Business Analyst
+BCA,Computer Applications,7.5,Web Developer
+BCA,Computer Applications,8.1,Frontend Developer
+BCA,Computer Applications,8.4,Backend Developer
+MBA,Finance,8.3,Financial Analyst
+MBA,Finance,8.7,Investment Analyst
+MBA,Finance,7.9,Banking Executive
+MBA,Marketing,8.2,Marketing Manager
+MBA,Marketing,7.8,Sales Manager
+MBA,Marketing,8.5,Digital Marketing Executive
+MBA,HR,7.6,HR Executive
+MBA,HR,8.2,HR Manager
+MBA,HR,8.0,Talent Acquisition Specialist
+B.Com,Accounting,7.6,Accountant
+B.Com,Accounting,8.4,Senior Accountant
+B.Com,Finance,7.9,Financial Analyst
+B.Com,Finance,8.1,Investment Executive
+BBA,Marketing,7.5,Sales Executive
+BBA,Marketing,8.0,Marketing Executive
+BBA,Marketing,8.3,Business Development Executive
+B.Tech,Electronics,7.8,Embedded Engineer
+B.Tech,Electronics,8.2,Electronics Engineer
+B.Tech,Electronics,7.4,Hardware Engineer
+B.Tech,Mechanical,7.7,Mechanical Engineer
+B.Tech,Mechanical,8.3,Production Engineer
+B.Tech,Mechanical,7.9,Design Engineer
+B.Tech,Civil,7.5,Site Engineer
+B.Tech,Civil,8.1,Project Engineer
+B.Tech,Civil,8.4,Construction Engineer
+Diploma,Computer Science,7.2,Software Technician
+Diploma,Computer Science,7.8,IT Support Technician
+Diploma,Civil Engineering,7.9,Site Supervisor
+Diploma,Civil Engineering,8.3,Construction Supervisor
+IT,Design,7.0,Graphic Designer
+IT,Design,7.8,UI Designer
+IT,Design,8.2,UX Designer
+B.Sc,Mathematics,8.1,Data Analyst
+B.Sc,Mathematics,7.9,Statistician
+B.Sc,Mathematics,8.4,Research Analyst
+MBA,Operations,8.0,Operations Manager
+MBA,Operations,7.7,Supply Chain Analyst
+MBA,Operations,8.5,Logistics Manager
+B.Tech,Information Technology,8.4,Cloud Engineer
+B.Tech,Information Technology,8.6,DevOps Engineer
+B.Tech,Computer Science,8.8,Software Developer
+B.Tech,Computer Science,7.7,QA Engineer
+B.Tech,Computer Science,8.3,Application Developer
+BCA,Computer Applications,7.8,Web Designer
+BCA,Computer Applications,8.2,Software Developer
+BCA,Computer Applications,7.6,IT Support Engineer
+B.Com,Business Administration,7.7,Office Executive
+B.Com,Business Administration,8.0,Business Analyst
+BBA,Finance,7.8,Financial Executive
+BBA,Finance,8.1,Banking Executive
+B.Tech,AI & ML,8.7,AI Research Assistant
+B.Tech,AI & ML,8.3,Deep Learning Engineer
+B.Sc,Data Science,7.9,Data Engineer
+B.Sc,Data Science,8.4,Machine Learning Analyst
+MBA,Marketing,8.6,Brand Manager
+MBA,Marketing,7.9,Advertising Executive
+B.Tech,Mechanical,8.1,Automobile Engineer
+B.Tech,Mechanical,7.8,Maintenance Engineer
+B.Tech,Electronics,8.5,Robotics Engineer
+B.Tech,Electronics,7.9,Instrumentation Engineer
+Diploma,Mechanical Engineering,7.6,Maintenance Technician
+Diploma,Mechanical Engineering,8.0,Production Supervisor
+B.Sc,Statistics,8.3,Data Scientist
+B.Sc,Statistics,7.7,Market Research Analyst
+Degree,Specialization,CGPA,JobRole
+B.Tech,Computer Science,8.2,Software Developer
+B.Tech,Computer Science,7.9,Software Developer
+B.Tech,Computer Science,8.5,AI Engineer
+B.Tech,Computer Science,7.8,System Engineer
+B.Tech,Computer Science,8.9,Software Developer
+B.Tech,Artificial Intelligence,8.7,AI Engineer
+B.Tech,Artificial Intelligence,8.3,ML Engineer
+B.Tech,Artificial Intelligence,9.1,AI Engineer
+B.Tech,Artificial Intelligence,8.4,ML Engineer
+B.Tech,Artificial Intelligence,8.8,AI Engineer
+B.Tech,Machine Learning,8.6,ML Engineer
+B.Tech,Machine Learning,8.1,Data Scientist
+B.Tech,Machine Learning,8.9,ML Engineer
+B.Tech,Machine Learning,8.3,AI Engineer
+B.Tech,Machine Learning,8.5,ML Engineer
+B.Tech,Data Science,8.4,Data Scientist
+B.Tech,Data Science,8.2,Data Analyst
+B.Tech,Data Science,8.7,Data Scientist
+B.Tech,Data Science,8.1,Data Analyst
+B.Tech,Data Science,8.9,Data Scientist
+B.Tech,Cyber Security,7.9,Cyber Security Analyst
+B.Tech,Cyber Security,8.3,Cyber Security Analyst
+B.Tech,Cyber Security,8.1,System Security Engineer
+B.Tech,Cyber Security,8.4,Cyber Security Analyst
+B.Tech,Cyber Security,8.0,Cyber Security Analyst
+B.Tech,Information Technology,7.8,System Engineer
+B.Tech,Information Technology,8.1,Software Developer
+B.Tech,Information Technology,7.9,Cloud Engineer
+B.Tech,Information Technology,8.2,System Engineer
+B.Tech,Information Technology,8.0,Software Developer
+B.Tech,Cloud Computing,8.3,Cloud Engineer
+B.Tech,Cloud Computing,8.6,Cloud Engineer
+B.Tech,Cloud Computing,8.2,System Engineer
+B.Tech,Cloud Computing,8.4,Cloud Engineer
+B.Tech,Cloud Computing,8.1,DevOps Engineer
+B.Tech,Blockchain,8.0,Blockchain Developer
+B.Tech,Blockchain,8.4,Blockchain Developer
+B.Tech,Blockchain,8.2,Software Developer
+B.Tech,Blockchain,8.5,Blockchain Developer
+B.Tech,Blockchain,8.3,Blockchain Developer
+B.Tech,Internet of Things,8.2,IoT Engineer
+B.Tech,Internet of Things,8.5,IoT Engineer
+B.Tech,Internet of Things,8.1,Embedded Engineer
+B.Tech,Internet of Things,8.4,IoT Engineer
+B.Tech,Internet of Things,8.3,IoT Engineer
+B.Tech,Robotics,8.6,Robotics Engineer
+B.Tech,Robotics,8.2,Robotics Engineer
+B.Tech,Robotics,8.4,Automation Engineer
+B.Tech,Robotics,8.1,Robotics Engineer
+B.Tech,Robotics,8.5,Robotics Engineer
+BCA,Web Development,7.8,Web Developer
+BCA,Web Development,8.1,Frontend Developer
+BCA,Web Development,8.0,Backend Developer
+BCA,Web Development,7.9,Web Developer
+BCA,Web Development,8.2,Frontend Developer
+BCA,Database Management,7.7,Database Administrator
+BCA,Database Management,8.0,Database Administrator
+BCA,Database Management,7.9,Data Analyst
+BCA,Database Management,8.1,Database Administrator
+BCA,Database Management,7.8,Database Administrator
+BCA,Mobile App Development,8.2,Mobile App Developer
+BCA,Mobile App Development,8.0,Mobile App Developer
+BCA,Mobile App Development,7.9,Android Developer
+BCA,Mobile App Development,8.1,Mobile App Developer
+BCA,Mobile App Development,7.8,Mobile App Developer
+BCA,Networking,7.6,Network Engineer
+BCA,Networking,7.9,System Administrator
+BCA,Networking,7.8,Network Engineer
+BCA,Networking,8.0,Network Engineer
+BCA,Networking,7.7,Network Engineer
+B.Sc,Computer Science,8.0,System Engineer
+B.Sc,Computer Science,8.2,Software Developer
+B.Sc,Computer Science,7.9,System Engineer
+B.Sc,Computer Science,8.1,Software Developer
+B.Sc,Computer Science,8.3,System Engineer
+B.Sc,Data Analytics,8.4,Data Analyst
+B.Sc,Data Analytics,8.2,Data Analyst
+B.Sc,Data Analytics,8.1,Business Analyst
+B.Sc,Data Analytics,8.3,Data Analyst
+B.Sc,Data Analytics,8.0,Data Analyst
+B.Sc,Artificial Intelligence,8.5,AI Engineer
+B.Sc,Artificial Intelligence,8.3,ML Engineer
+B.Sc,Artificial Intelligence,8.4,AI Engineer
+B.Sc,Artificial Intelligence,8.2,ML Engineer
+B.Sc,Artificial Intelligence,8.6,AI Engineer
+B.Sc,Machine Learning,8.4,ML Engineer
+B.Sc,Machine Learning,8.1,Data Scientist
+B.Sc,Machine Learning,8.3,ML Engineer
+B.Sc,Machine Learning,8.2,AI Engineer
+B.Sc,Machine Learning,8.5,ML Engineer
+MBA,Marketing,8.1,Marketing Manager
+MBA,Marketing,8.3,Digital Marketing Manager
+MBA,Marketing,8.2,Brand Manager
+MBA,Marketing,8.4,Marketing Manager
+MBA,Marketing,8.0,Sales Manager
 MBA,Finance,8.2,Financial Analyst
-B.Com,Accounting,7.5,Accountant
-BBA,Marketing,8.1,Marketing Executive
-B.Tech,Electronics,7.2,Embedded Engineer
-BCA,Computer Applications,8.3,Web Developer
-B.Tech,Information Technology,8.7,System Engineer
-MBA,HR,7.9,HR Manager
-B.Tech,Civil,7.4,Site Engineer
-B.Tech,Mechanical,8.0,Mechanical Engineer
-B.Sc,Statistics,8.6,Data Analyst
-MBA,Marketing,8.9,Marketing Manager
-B.Com,Finance,8.4,Financial Analyst
-B.Tech,Computer Science,7.5,Software Engineer
-BCA,Computer Applications,7.9,Web Developer
-B.Tech,AI & ML,8.8,ML Engineer
-B.Sc,Data Science,8.3,Data Scientist
-MBA,HR,8.0,HR Executive
-B.Tech,Information Technology,7.8,System Administrator
-B.Tech,Electronics,8.2,Embedded Engineer
-B.Tech,Mechanical,7.6,Production Engineer
-BBA,Marketing,7.7,Sales Executive
+MBA,Finance,8.4,Investment Analyst
+MBA,Finance,8.1,Finance Manager
+MBA,Finance,8.3,Financial Analyst
+MBA,Finance,8.0,Banking Manager
+MBA,Business Analytics,8.5,Business Analyst
+MBA,Business Analytics,8.3,Data Analyst
+MBA,Business Analytics,8.4,Business Analyst
+MBA,Business Analytics,8.2,Operations Analyst
+MBA,Business Analytics,8.6,Business Analyst
+MBA,Human Resources,7.9,HR Manager
+MBA,Human Resources,8.1,Talent Acquisition Manager
+MBA,Human Resources,8.0,HR Manager
+MBA,Human Resources,8.2,HR Manager
+MBA,Human Resources,7.8,HR Executive
+BBA,Marketing,7.8,Sales Executive
+BBA,Marketing,8.0,Marketing Executive
+BBA,Marketing,7.9,Digital Marketing Executive
+BBA,Marketing,8.1,Sales Executive
+BBA,Marketing,7.7,Marketing Executive
+BBA,Finance,7.9,Financial Advisor
+BBA,Finance,8.1,Finance Executive
+BBA,Finance,7.8,Banking Executive
+BBA,Finance,8.0,Financial Advisor
+BBA,Finance,7.7,Finance Executive
+B.Com,Accounting,7.8,Accountant
+B.Com,Accounting,8.0,Senior Accountant
+B.Com,Accounting,7.9,Audit Assistant
 B.Com,Accounting,8.1,Accountant
-MBA,Finance,8.6,Investment Analyst
-B.Tech,Civil,8.3,Project Engineer
-B.Sc,Statistics,7.9,Data Analyst
-B.Tech,Computer Science,9.1,Software Developer
-BCA,Computer Applications,8.5,Frontend Developer
+B.Com,Accounting,7.7,Account Executive
+B.Des,UI/UX Design,8.3,UX Designer
+B.Des,UI/UX Design,8.1,UI Designer
+B.Des,UI/UX Design,8.2,UX Designer
+B.Des,UI/UX Design,8.4,Product Designer
+B.Des,UI/UX Design,8.0,UX Designer
+B.Arch,Architecture,8.2,Architect
+B.Arch,Architecture,8.4,Architect
+B.Arch,Architecture,8.1,Urban Planner
+B.Arch,Architecture,8.3,Architect
+B.Arch,Architecture,8.0,Architect
+B.Pharm,Pharmacy,8.1,Pharmacist
+B.Pharm,Pharmacy,8.3,Clinical Pharmacist
+B.Pharm,Pharmacy,8.2,Pharmacist
+B.Pharm,Pharmacy,8.0,Medical Representative
+B.Pharm,Pharmacy,8.4,Pharmacist
+B.Com,Accounting,7.8,Senior Accountant
+B.Com,Accounting,8.0,Financial Analyst
+B.Com,Accounting,7.9,Audit Assistant
+B.Com,Accounting,8.2,Banking Executive
+B.Tech,Cyber Security,8.4,Cyber Security Analyst
+B.Tech,Cyber Security,8.0,Cyber Security Analyst
+B.Tech,Information Technology,7.8,System Engineer
+B.Tech,Information Technology,8.1,Software Developer
+B.Tech,Information Technology,7.9,Cloud Engineer
+B.Tech,Information Technology,8.2,System Engineer
+B.Tech,Information Technology,8.0,Software Developer
+B.Tech,Cloud Computing,8.3,Cloud Engineer
+B.Tech,Cloud Computing,8.6,Cloud Engineer
+B.Tech,Cloud Computing,8.2,System Engineer
+B.Tech,Cloud Computing,8.4,Cloud Engineer
+B.Tech,Cloud Computing,8.1,DevOps Engineer
+B.Tech,Blockchain,8.0,Blockchain Developer
+B.Tech,Blockchain,8.4,Blockchain Developer
+B.Tech,Blockchain,8.2,Software Developer
+B.Tech,Blockchain,8.5,Blockchain Developer
+BBA,Marketing,7.7,Marketing Executive
+BBA,Finance,7.9,Financial Advisor
+BBA,Finance,8.1,Finance Executive
+BBA,Finance,7.8,Banking Executive
+BBA,Finance,8.0,Financial Advisor
+BBA,Finance,7.7,Finance Executive
+B.Com,Accounting,7.8,Accountant
+B.Com,Accounting,8.0,Senior Accountant
+B.Com,Accounting,7.9,Audit Assistant
+B.Com,Accounting,8.1,Accountant
+B.Com,Accounting,7.7,Account Executive
+B.Des,UI/UX Design,8.3,UX Designer
+B.Des,UI/UX Design,8.1,UI Designer
+B.Des,UI/UX Design,8.2,UX Designer
+B.Des,UI/UX Design,8.4,Product Designer
+B.Des,UI/UX Design,8.0,UX Designer
+B.Arch,Architecture,8.2,Architect
+B.Arch,Architecture,8.4,Architect
+B.Arch,Architecture,8.1,Urban Planner
+B.Arch,Architecture,8.3,Architect
+B.Arch,Architecture,8.0,Architect
+B.Pharm,Pharmacy,8.1,Pharmacist
+B.Pharm,Pharmacy,8.3,Clinical Pharmacist
+B.Pharm,Pharmacy,8.2,Pharmacist
+B.Pharm,Pharmacy,8.0,Medical Representative
+B.Pharm,Pharmacy,8.4,Pharmacist
+B.Com,Accounting,7.8,Senior Accountant
+B.Com,Accounting,8.0,Financial Analyst
+B.Com,Accounting,7.9,Audit Assistant
+B.Com,Accounting,8.2,Banking Executive
+B.Tech,Cyber Security,8.4,Cyber Security Analyst
+B.Tech,Cyber Security,8.0,Cyber Security Analyst
+B.Tech,Information Technology,7.8,System Engineer
+B.Tech,Information Technology,8.1,Software Developer
+B.Tech,Information Technology,7.9,Cloud Engineer
+B.Tech,Information Technology,8.2,System Engineer
+B.Tech,Information Technology,8.0,Software Developer
+B.Tech,Cloud Computing,8.3,Cloud Engineer
+B.Tech,Cloud Computing,8.6,Cloud Engineer
+B.Tech,Cloud Computing,8.2,System Engineer
+B.Tech,Cloud Computing,8.4,Cloud Engineer
+B.Tech,Cloud Computing,8.1,DevOps Engineer
+B.Tech,Blockchain,8.0,Blockchain Developer
+B.Tech,Blockchain,8.4,Blockchain Developer
+B.Tech,Blockchain,8.2,Software Developer
+B.Tech,Blockchain,8.5,Blockchain Developer
+B.Tech,Computer Science,8.2,Software Engineer
+B.Tech,Computer Science,7.9,Backend Developer
+B.Tech,Computer Science,8.7,Full Stack Developer
+B.Tech,Information Technology,8.1,System Engineer
+B.Tech,Information Technology,7.6,Network Engineer
+B.Tech,AI & ML,8.9,ML Engineer
+B.Tech,AI & ML,8.4,AI Engineer
+B.Sc,Data Science,8.0,Data Analyst
+B.Sc,Data Science,8.6,Data Scientist
+B.Sc,Statistics,7.8,Data Analyst
+B.Sc,Statistics,8.2,Business Analyst
+BCA,Computer Applications,7.5,Web Developer
+BCA,Computer Applications,8.1,Frontend Developer
+BCA,Computer Applications,8.4,Backend Developer
+MBA,Finance,8.3,Financial Analyst
+MBA,Finance,8.7,Investment Analyst
+MBA,Finance,7.9,Banking Executive
+MBA,Marketing,8.2,Marketing Manager
+MBA,Marketing,7.8,Sales Manager
+MBA,Marketing,8.5,Digital Marketing Executive
+MBA,HR,7.6,HR Executive
+MBA,HR,8.2,HR Manager
+MBA,HR,8.0,Talent Acquisition Specialist
+B.Com,Accounting,7.6,Accountant
+B.Com,Accounting,8.4,Senior Accountant
+B.Com,Finance,7.9,Financial Analyst
+B.Com,Finance,8.1,Investment Executive
+BBA,Marketing,7.5,Sales Executive
+BBA,Marketing,8.0,Marketing Executive
+BBA,Marketing,8.3,Business Development Executive
+B.Tech,Electronics,7.8,Embedded Engineer
+B.Tech,Electronics,8.2,Electronics Engineer
+B.Tech,Electronics,7.4,Hardware Engineer
+B.Tech,Mechanical,7.7,Mechanical Engineer
+B.Tech,Mechanical,8.3,Production Engineer
+B.Tech,Mechanical,7.9,Design Engineer
+B.Tech,Civil,7.5,Site Engineer
+B.Tech,Civil,8.1,Project Engineer
+B.Tech,Civil,8.4,Construction Engineer
+Diploma,Computer Science,7.2,Software Technician
+Diploma,Computer Science,7.8,IT Support Technician
+Diploma,Civil Engineering,7.9,Site Supervisor
+Diploma,Civil Engineering,8.3,Construction Supervisor
+IT,Design,7.0,Graphic Designer
+IT,Design,7.8,UI Designer
+IT,Design,8.2,UX Designer
+B.Sc,Mathematics,8.1,Data Analyst
+B.Sc,Mathematics,7.9,Statistician
+B.Sc,Mathematics,8.4,Research Analyst
+MBA,Operations,8.0,Operations Manager
+MBA,Operations,7.7,Supply Chain Analyst
+MBA,Operations,8.5,Logistics Manager
+B.Tech,Information Technology,8.4,Cloud Engineer
+B.Tech,Information Technology,8.6,DevOps Engineer
+B.Tech,Computer Science,8.8,Software Developer
+B.Tech,Computer Science,7.7,QA Engineer
+B.Tech,Computer Science,8.3,Application Developer
+BCA,Computer Applications,7.8,Web Designer
+BCA,Computer Applications,8.2,Software Developer
+BCA,Computer Applications,7.6,IT Support Engineer
+B.Com,Business Administration,7.7,Office Executive
+B.Com,Business Administration,8.0,Business Analyst
+BBA,Finance,7.8,Financial Executive
+BBA,Finance,8.1,Banking Executive
+B.Tech,AI & ML,8.7,AI Research Assistant
+B.Tech,AI & ML,8.3,Deep Learning Engineer
+B.Sc,Data Science,7.9,Data Engineer
+B.Sc,Data Science,8.4,Machine Learning Analyst
+MBA,Marketing,8.6,Brand Manager
+MBA,Marketing,7.9,Advertising Executive
+B.Tech,Mechanical,8.1,Automobile Engineer
+B.Tech,Mechanical,7.8,Maintenance Engineer
+B.Tech,Electronics,8.5,Robotics Engineer
+B.Tech,Electronics,7.9,Instrumentation Engineer
+Diploma,Mechanical Engineering,7.6,Maintenance Technician
+Diploma,Mechanical Engineering,8.0,Production Supervisor
+B.Sc,Statistics,8.3,Data Scientist
+B.Sc,Statistics,7.7,Market Research Analyst
+Degree,Specialization,CGPA,JobRole
+B.Tech,Computer Science,8.2,Software Developer
+B.Tech,Computer Science,7.9,Software Developer
+B.Tech,Computer Science,8.5,AI Engineer
+B.Tech,Computer Science,7.8,System Engineer
+B.Tech,Computer Science,8.9,Software Developer
+B.Tech,Artificial Intelligence,8.7,AI Engineer
+B.Tech,Artificial Intelligence,8.3,ML Engineer
+B.Tech,Artificial Intelligence,9.1,AI Engineer
+B.Tech,Artificial Intelligence,8.4,ML Engineer
+B.Tech,Artificial Intelligence,8.8,AI Engineer
+B.Tech,Machine Learning,8.6,ML Engineer
+B.Tech,Machine Learning,8.1,Data Scientist
+B.Tech,Machine Learning,8.9,ML Engineer
+B.Tech,Machine Learning,8.3,AI Engineer
+B.Tech,Machine Learning,8.5,ML Engineer
+B.Tech,Data Science,8.4,Data Scientist
+B.Tech,Data Science,8.2,Data Analyst
+B.Tech,Data Science,8.7,Data Scientist
+B.Tech,Data Science,8.1,Data Analyst
+B.Tech,Data Science,8.9,Data Scientist
+B.Tech,Cyber Security,7.9,Cyber Security Analyst
+B.Tech,Cyber Security,8.3,Cyber Security Analyst
+B.Tech,Cyber Security,8.1,System Security Engineer
+B.Tech,Cyber Security,8.4,Cyber Security Analyst
+B.Tech,Cyber Security,8.0,Cyber Security Analyst
+B.Tech,Information Technology,7.8,System Engineer
+B.Tech,Information Technology,8.1,Software Developer
+B.Tech,Information Technology,7.9,Cloud Engineer
+B.Tech,Information Technology,8.2,System Engineer
+B.Tech,Information Technology,8.0,Software Developer
+B.Tech,Cloud Computing,8.3,Cloud Engineer
+B.Tech,Cloud Computing,8.6,Cloud Engineer
+B.Tech,Cloud Computing,8.2,System Engineer
+B.Tech,Cloud Computing,8.4,Cloud Engineer
+B.Tech,Cloud Computing,8.1,DevOps Engineer
+B.Tech,Blockchain,8.0,Blockchain Developer
+B.Tech,Blockchain,8.4,Blockchain Developer
+B.Tech,Blockchain,8.2,Software Developer
+B.Tech,Blockchain,8.5,Blockchain Developer
+B.Tech,Blockchain,8.3,Blockchain Developer
+B.Tech,Internet of Things,8.2,IoT Engineer
+B.Tech,Internet of Things,8.5,IoT Engineer
+B.Tech,Internet of Things,8.1,Embedded Engineer
+B.Tech,Internet of Things,8.4,IoT Engineer
+B.Tech,Internet of Things,8.3,IoT Engineer
+B.Tech,Robotics,8.6,Robotics Engineer
+B.Tech,Robotics,8.2,Robotics Engineer
+B.Tech,Robotics,8.4,Automation Engineer
+B.Tech,Robotics,8.1,Robotics Engineer
+B.Tech,Robotics,8.5,Robotics Engineer
+BCA,Web Development,7.8,Web Developer
+BCA,Web Development,8.1,Frontend Developer
+BCA,Web Development,8.0,Backend Developer
+BCA,Web Development,7.9,Web Developer
+BCA,Web Development,8.2,Frontend Developer
+BCA,Database Management,7.7,Database Administrator
+BCA,Database Management,8.0,Database Administrator
+BCA,Database Management,7.9,Data Analyst
+BCA,Database Management,8.1,Database Administrator
+BCA,Database Management,7.8,Database Administrator
+BCA,Mobile App Development,8.2,Mobile App Developer
+BCA,Mobile App Development,8.0,Mobile App Developer
+BCA,Mobile App Development,7.9,Android Developer
+BCA,Mobile App Development,8.1,Mobile App Developer
+BCA,Mobile App Development,7.8,Mobile App Developer
+BCA,Networking,7.6,Network Engineer
+BCA,Networking,7.9,System Administrator
+BCA,Networking,7.8,Network Engineer
+BCA,Networking,8.0,Network Engineer
+BCA,Networking,7.7,Network Engineer
+B.Sc,Computer Science,8.0,System Engineer
+B.Sc,Computer Science,8.2,Software Developer
+B.Sc,Computer Science,7.9,System Engineer
+B.Sc,Computer Science,8.1,Software Developer
+B.Sc,Computer Science,8.3,System Engineer
+B.Sc,Data Analytics,8.4,Data Analyst
+B.Sc,Data Analytics,8.2,Data Analyst
+B.Sc,Data Analytics,8.1,Business Analyst
+B.Sc,Data Analytics,8.3,Data Analyst
+B.Sc,Data Analytics,8.0,Data Analyst
+B.Sc,Artificial Intelligence,8.5,AI Engineer
+B.Sc,Artificial Intelligence,8.3,ML Engineer
+B.Sc,Artificial Intelligence,8.4,AI Engineer
+B.Sc,Artificial Intelligence,8.2,ML Engineer
+B.Sc,Artificial Intelligence,8.6,AI Engineer
+B.Sc,Machine Learning,8.4,ML Engineer
+B.Sc,Machine Learning,8.1,Data Scientist
+B.Sc,Machine Learning,8.3,ML Engineer
+B.Sc,Machine Learning,8.2,AI Engineer
+B.Sc,Machine Learning,8.5,ML Engineer
+MBA,Marketing,8.1,Marketing Manager
+MBA,Marketing,8.3,Digital Marketing Manager
+MBA,Marketing,8.2,Brand Manager
+MBA,Marketing,8.4,Marketing Manager
+MBA,Marketing,8.0,Sales Manager
+MBA,Finance,8.2,Financial Analyst
+MBA,Finance,8.4,Investment Analyst
+MBA,Finance,8.1,Finance Manager
+MBA,Finance,8.3,Financial Analyst
+MBA,Finance,8.0,Banking Manager
+MBA,Business Analytics,8.5,Business Analyst
+MBA,Business Analytics,8.3,Data Analyst
+MBA,Business Analytics,8.4,Business Analyst
+MBA,Business Analytics,8.2,Operations Analyst
+MBA,Business Analytics,8.6,Business Analyst
+MBA,Human Resources,7.9,HR Manager
+MBA,Human Resources,8.1,Talent Acquisition Manager
+MBA,Human Resources,8.0,HR Manager
+MBA,Human Resources,8.2,HR Manager
+MBA,Human Resources,7.8,HR Executive
+BBA,Marketing,7.8,Sales Executive
+BBA,Marketing,8.0,Marketing Executive
+BBA,Marketing,7.9,Digital Marketing Executive
+BBA,Marketing,8.1,Sales Executive
+BBA,Marketing,7.7,Marketing Executive
+BBA,Finance,7.9,Financial Advisor
+BBA,Finance,8.1,Finance Executive
+BBA,Finance,7.8,Banking Executive
+BBA,Finance,8.0,Financial Advisor
+BBA,Finance,7.7,Finance Executive
+B.Com,Accounting,7.8,Accountant
+B.Com,Accounting,8.0,Senior Accountant
+B.Com,Accounting,7.9,Audit Assistant
+B.Com,Accounting,8.1,Accountant
+B.Com,Accounting,7.7,Account Executive
+B.Des,UI/UX Design,8.3,UX Designer
+B.Des,UI/UX Design,8.1,UI Designer
+B.Des,UI/UX Design,8.2,UX Designer
+B.Des,UI/UX Design,8.4,Product Designer
+B.Des,UI/UX Design,8.0,UX Designer
+B.Arch,Architecture,8.2,Architect
+B.Arch,Architecture,8.4,Architect
+B.Arch,Architecture,8.1,Urban Planner
+B.Arch,Architecture,8.3,Architect
+B.Arch,Architecture,8.0,Architect
+B.Pharm,Pharmacy,8.1,Pharmacist
+B.Pharm,Pharmacy,8.3,Clinical Pharmacist
+B.Pharm,Pharmacy,8.2,Pharmacist
+B.Pharm,Pharmacy,8.0,Medical Representative
+B.Pharm,Pharmacy,8.4,Pharmacist
+B.Com,Accounting,7.8,Senior Accountant
+B.Com,Accounting,8.0,Financial Analyst
+B.Com,Accounting,7.9,Audit Assistant
+B.Com,Accounting,8.2,Banking Executive
+B.Tech,Cyber Security,8.4,Cyber Security Analyst
+B.Tech,Cyber Security,8.0,Cyber Security Analyst
+B.Tech,Information Technology,7.8,System Engineer
+B.Tech,Information Technology,8.1,Software Developer
+B.Tech,Information Technology,7.9,Cloud Engineer
+B.Tech,Information Technology,8.2,System Engineer
+B.Tech,Information Technology,8.0,Software Developer
+B.Tech,Cloud Computing,8.3,Cloud Engineer
+B.Tech,Cloud Computing,8.6,Cloud Engineer
+B.Tech,Cloud Computing,8.2,System Engineer
+B.Tech,Cloud Computing,8.4,Cloud Engineer
+B.Tech,Cloud Computing,8.1,DevOps Engineer
+B.Tech,Blockchain,8.0,Blockchain Developer
+B.Tech,Blockchain,8.4,Blockchain Developer
+B.Tech,Blockchain,8.2,Software Developer
+B.Tech,Blockchain,8.5,Blockchain Developer
+BBA,Marketing,7.7,Marketing Executive
+BBA,Finance,7.9,Financial Advisor
+BBA,Finance,8.1,Finance Executive
+BBA,Finance,7.8,Banking Executive
+BBA,Finance,8.0,Financial Advisor
+BBA,Finance,7.7,Finance Executive
+B.Com,Accounting,7.8,Accountant
+B.Com,Accounting,8.0,Senior Accountant
+B.Com,Accounting,7.9,Audit Assistant
+B.Com,Accounting,8.1,Accountant
+B.Com,Accounting,7.7,Account Executive
+B.Des,UI/UX Design,8.3,UX Designer
+B.Des,UI/UX Design,8.1,UI Designer
+B.Des,UI/UX Design,8.2,UX Designer
+B.Des,UI/UX Design,8.4,Product Designer
+B.Des,UI/UX Design,8.0,UX Designer
+B.Arch,Architecture,8.2,Architect
+B.Arch,Architecture,8.4,Architect
+B.Arch,Architecture,8.1,Urban Planner
+B.Arch,Architecture,8.3,Architect
+B.Arch,Architecture,8.0,Architect
+B.Pharm,Pharmacy,8.1,Pharmacist
+B.Pharm,Pharmacy,8.3,Clinical Pharmacist
+B.Pharm,Pharmacy,8.2,Pharmacist
+B.Pharm,Pharmacy,8.0,Medical Representative
+B.Pharm,Pharmacy,8.4,Pharmacist
+B.Com,Accounting,7.8,Senior Accountant
+B.Com,Accounting,8.0,Financial Analyst
+B.Com,Accounting,7.9,Audit Assistant
+B.Com,Accounting,8.2,Banking Executive
+B.Tech,Cyber Security,8.4,Cyber Security Analyst
+B.Tech,Cyber Security,8.0,Cyber Security Analyst
+B.Tech,Information Technology,7.8,System Engineer
+B.Tech,Information Technology,8.1,Software Developer
+B.Tech,Information Technology,7.9,Cloud Engineer
+B.Tech,Information Technology,8.2,System Engineer
+B.Tech,Information Technology,8.0,Software Developer
+B.Tech,Cloud Computing,8.3,Cloud Engineer
+B.Tech,Cloud Computing,8.6,Cloud Engineer
+B.Tech,Cloud Computing,8.2,System Engineer
+B.Tech,Cloud Computing,8.4,Cloud Engineer
+B.Tech,Cloud Computing,8.1,DevOps Engineer
+B.Tech,Blockchain,8.0,Blockchain Developer
+B.Tech,Blockchain,8.4,Blockchain Developer
+B.Tech,Blockchain,8.2,Software Developer
+B.Tech,Blockchain,8.5,Blockchain Developer
+B.Tech,Computer Science,8.2,Software Engineer
+B.Tech,Computer Science,7.9,Backend Developer
+B.Tech,Computer Science,8.7,Full Stack Developer
+B.Tech,Information Technology,8.1,System Engineer
+B.Tech,Information Technology,7.6,Network Engineer
+B.Tech,AI & ML,8.9,ML Engineer
+B.Tech,AI & ML,8.4,AI Engineer
+B.Sc,Data Science,8.0,Data Analyst
+B.Sc,Data Science,8.6,Data Scientist
+B.Sc,Statistics,7.8,Data Analyst
+B.Sc,Statistics,8.2,Business Analyst
+BCA,Computer Applications,7.5,Web Developer
+BCA,Computer Applications,8.1,Frontend Developer
+BCA,Computer Applications,8.4,Backend Developer
+MBA,Finance,8.3,Financial Analyst
+MBA,Finance,8.7,Investment Analyst
+MBA,Finance,7.9,Banking Executive
+MBA,Marketing,8.2,Marketing Manager
+MBA,Marketing,7.8,Sales Manager
+MBA,Marketing,8.5,Digital Marketing Executive
+MBA,HR,7.6,HR Executive
+MBA,HR,8.2,HR Manager
+MBA,HR,8.0,Talent Acquisition Specialist
+B.Com,Accounting,7.6,Accountant
+B.Com,Accounting,8.4,Senior Accountant
+B.Com,Finance,7.9,Financial Analyst
+B.Com,Finance,8.1,Investment Executive
+BBA,Marketing,7.5,Sales Executive
+BBA,Marketing,8.0,Marketing Executive
+BBA,Marketing,8.3,Business Development Executive
+B.Tech,Electronics,7.8,Embedded Engineer
+B.Tech,Electronics,8.2,Electronics Engineer
+B.Tech,Electronics,7.4,Hardware Engineer
+B.Tech,Mechanical,7.7,Mechanical Engineer
+B.Tech,Mechanical,8.3,Production Engineer
+B.Tech,Mechanical,7.9,Design Engineer
+B.Tech,Civil,7.5,Site Engineer
+B.Tech,Civil,8.1,Project Engineer
+B.Tech,Civil,8.4,Construction Engineer
+Diploma,Computer Science,7.2,Software Technician
+Diploma,Computer Science,7.8,IT Support Technician
+Diploma,Civil Engineering,7.9,Site Supervisor
+Diploma,Civil Engineering,8.3,Construction Supervisor
+IT,Design,7.0,Graphic Designer
+IT,Design,7.8,UI Designer
+IT,Design,8.2,UX Designer
+B.Sc,Mathematics,8.1,Data Analyst
+B.Sc,Mathematics,7.9,Statistician
+B.Sc,Mathematics,8.4,Research Analyst
+MBA,Operations,8.0,Operations Manager
+MBA,Operations,7.7,Supply Chain Analyst
+MBA,Operations,8.5,Logistics Manager
+B.Tech,Information Technology,8.4,Cloud Engineer
+B.Tech,Information Technology,8.6,DevOps Engineer
+B.Tech,Computer Science,8.8,Software Developer
+B.Tech,Computer Science,7.7,QA Engineer
+B.Tech,Computer Science,8.3,Application Developer
+BCA,Computer Applications,7.8,Web Designer
+BCA,Computer Applications,8.2,Software Developer
+BCA,Computer Applications,7.6,IT Support Engineer
+B.Com,Business Administration,7.7,Office Executive
+B.Com,Business Administration,8.0,Business Analyst
+BBA,Finance,7.8,Financial Executive
+BBA,Finance,8.1,Banking Executive
+B.Tech,AI & ML,8.7,AI Research Assistant
+B.Tech,AI & ML,8.3,Deep Learning Engineer
+B.Sc,Data Science,7.9,Data Engineer
+B.Sc,Data Science,8.4,Machine Learning Analyst
+MBA,Marketing,8.6,Brand Manager
+MBA,Marketing,7.9,Advertising Executive
+B.Tech,Mechanical,8.1,Automobile Engineer
+B.Tech,Mechanical,7.8,Maintenance Engineer
+B.Tech,Electronics,8.5,Robotics Engineer
+B.Tech,Electronics,7.9,Instrumentation Engineer
+Diploma,Mechanical Engineering,7.6,Maintenance Technician
+Diploma,Mechanical Engineering,8.0,Production Supervisor
+B.Sc,Statistics,8.3,Data Scientist
+B.Sc,Statistics,7.7,Market Research Analyst
+Degree,Specialization,CGPA,JobRole
+B.Tech,Computer Science,8.2,Software Developer
+B.Tech,Computer Science,7.9,Software Developer
+B.Tech,Computer Science,8.5,AI Engineer
+B.Tech,Computer Science,7.8,System Engineer
+B.Tech,Computer Science,8.9,Software Developer
+B.Tech,Artificial Intelligence,8.7,AI Engineer
+B.Tech,Artificial Intelligence,8.3,ML Engineer
+B.Tech,Artificial Intelligence,9.1,AI Engineer
+B.Tech,Artificial Intelligence,8.4,ML Engineer
+B.Tech,Artificial Intelligence,8.8,AI Engineer
+B.Tech,Machine Learning,8.6,ML Engineer
+B.Tech,Machine Learning,8.1,Data Scientist
+B.Tech,Machine Learning,8.9,ML Engineer
+B.Tech,Machine Learning,8.3,AI Engineer
+B.Tech,Machine Learning,8.5,ML Engineer
+B.Tech,Data Science,8.4,Data Scientist
+B.Tech,Data Science,8.2,Data Analyst
+B.Tech,Data Science,8.7,Data Scientist
+B.Tech,Data Science,8.1,Data Analyst
+B.Tech,Data Science,8.9,Data Scientist
+B.Tech,Cyber Security,7.9,Cyber Security Analyst
+B.Tech,Cyber Security,8.3,Cyber Security Analyst
+B.Tech,Cyber Security,8.1,System Security Engineer
+B.Tech,Cyber Security,8.4,Cyber Security Analyst
+B.Tech,Cyber Security,8.0,Cyber Security Analyst
+B.Tech,Information Technology,7.8,System Engineer
+B.Tech,Information Technology,8.1,Software Developer
+B.Tech,Information Technology,7.9,Cloud Engineer
+B.Tech,Information Technology,8.2,System Engineer
+B.Tech,Information Technology,8.0,Software Developer
+B.Tech,Cloud Computing,8.3,Cloud Engineer
+B.Tech,Cloud Computing,8.6,Cloud Engineer
+B.Tech,Cloud Computing,8.2,System Engineer
+B.Tech,Cloud Computing,8.4,Cloud Engineer
+B.Tech,Cloud Computing,8.1,DevOps Engineer
+B.Tech,Blockchain,8.0,Blockchain Developer
+B.Tech,Blockchain,8.4,Blockchain Developer
+B.Tech,Blockchain,8.2,Software Developer
+B.Tech,Blockchain,8.5,Blockchain Developer
+B.Tech,Blockchain,8.3,Blockchain Developer
+B.Tech,Internet of Things,8.2,IoT Engineer
+B.Tech,Internet of Things,8.5,IoT Engineer
+B.Tech,Internet of Things,8.1,Embedded Engineer
+B.Tech,Internet of Things,8.4,IoT Engineer
+B.Tech,Internet of Things,8.3,IoT Engineer
+B.Tech,Robotics,8.6,Robotics Engineer
+B.Tech,Robotics,8.2,Robotics Engineer
+B.Tech,Robotics,8.4,Automation Engineer
+B.Tech,Robotics,8.1,Robotics Engineer
+B.Tech,Robotics,8.5,Robotics Engineer
+BCA,Web Development,7.8,Web Developer
+BCA,Web Development,8.1,Frontend Developer
+BCA,Web Development,8.0,Backend Developer
+BCA,Web Development,7.9,Web Developer
+BCA,Web Development,8.2,Frontend Developer
+BCA,Database Management,7.7,Database Administrator
+BCA,Database Management,8.0,Database Administrator
+BCA,Database Management,7.9,Data Analyst
+BCA,Database Management,8.1,Database Administrator
+BCA,Database Management,7.8,Database Administrator
+BCA,Mobile App Development,8.2,Mobile App Developer
+BCA,Mobile App Development,8.0,Mobile App Developer
+BCA,Mobile App Development,7.9,Android Developer
+BCA,Mobile App Development,8.1,Mobile App Developer
+BCA,Mobile App Development,7.8,Mobile App Developer
+BCA,Networking,7.6,Network Engineer
+BCA,Networking,7.9,System Administrator
+BCA,Networking,7.8,Network Engineer
+BCA,Networking,8.0,Network Engineer
+BCA,Networking,7.7,Network Engineer
+B.Sc,Computer Science,8.0,System Engineer
+B.Sc,Computer Science,8.2,Software Developer
+B.Sc,Computer Science,7.9,System Engineer
+B.Sc,Computer Science,8.1,Software Developer
+B.Sc,Computer Science,8.3,System Engineer
+B.Sc,Data Analytics,8.4,Data Analyst
+B.Sc,Data Analytics,8.2,Data Analyst
+B.Sc,Data Analytics,8.1,Business Analyst
+B.Sc,Data Analytics,8.3,Data Analyst
+B.Sc,Data Analytics,8.0,Data Analyst
+B.Sc,Artificial Intelligence,8.5,AI Engineer
+B.Sc,Artificial Intelligence,8.3,ML Engineer
+B.Sc,Artificial Intelligence,8.4,AI Engineer
+B.Sc,Artificial Intelligence,8.2,ML Engineer
+B.Sc,Artificial Intelligence,8.6,AI Engineer
+B.Sc,Machine Learning,8.4,ML Engineer
+B.Sc,Machine Learning,8.1,Data Scientist
+B.Sc,Machine Learning,8.3,ML Engineer
+B.Sc,Machine Learning,8.2,AI Engineer
+B.Sc,Machine Learning,8.5,ML Engineer
+MBA,Marketing,8.1,Marketing Manager
+MBA,Marketing,8.3,Digital Marketing Manager
+MBA,Marketing,8.2,Brand Manager
+MBA,Marketing,8.4,Marketing Manager
+MBA,Marketing,8.0,Sales Manager
+MBA,Finance,8.2,Financial Analyst
+MBA,Finance,8.4,Investment Analyst
+MBA,Finance,8.1,Finance Manager
+MBA,Finance,8.3,Financial Analyst
+MBA,Finance,8.0,Banking Manager
+MBA,Business Analytics,8.5,Business Analyst
+MBA,Business Analytics,8.3,Data Analyst
+MBA,Business Analytics,8.4,Business Analyst
+MBA,Business Analytics,8.2,Operations Analyst
+MBA,Business Analytics,8.6,Business Analyst
+MBA,Human Resources,7.9,HR Manager
+MBA,Human Resources,8.1,Talent Acquisition Manager
+MBA,Human Resources,8.0,HR Manager
+MBA,Human Resources,8.2,HR Manager
+MBA,Human Resources,7.8,HR Executive
+BBA,Marketing,7.8,Sales Executive
+BBA,Marketing,8.0,Marketing Executive
+BBA,Marketing,7.9,Digital Marketing Executive
+BBA,Marketing,8.1,Sales Executive
+BBA,Marketing,7.7,Marketing Executive
+BBA,Finance,7.9,Financial Advisor
+BBA,Finance,8.1,Finance Executive
+BBA,Finance,7.8,Banking Executive
+BBA,Finance,8.0,Financial Advisor
+BBA,Finance,7.7,Finance Executive
+B.Com,Accounting,7.8,Accountant
+B.Com,Accounting,8.0,Senior Accountant
+B.Com,Accounting,7.9,Audit Assistant
+B.Com,Accounting,8.1,Accountant
+B.Com,Accounting,7.7,Account Executive
+B.Des,UI/UX Design,8.3,UX Designer
+B.Des,UI/UX Design,8.1,UI Designer
+B.Des,UI/UX Design,8.2,UX Designer
+B.Des,UI/UX Design,8.4,Product Designer
+B.Des,UI/UX Design,8.0,UX Designer
+B.Arch,Architecture,8.2,Architect
+B.Arch,Architecture,8.4,Architect
+B.Arch,Architecture,8.1,Urban Planner
+B.Arch,Architecture,8.3,Architect
+B.Arch,Architecture,8.0,Architect
+B.Pharm,Pharmacy,8.1,Pharmacist
+B.Pharm,Pharmacy,8.3,Clinical Pharmacist
+B.Pharm,Pharmacy,8.2,Pharmacist
+B.Pharm,Pharmacy,8.0,Medical Representative
+B.Pharm,Pharmacy,8.4,Pharmacist
+B.Com,Accounting,7.8,Senior Accountant
+B.Com,Accounting,8.0,Financial Analyst
+B.Com,Accounting,7.9,Audit Assistant
+B.Com,Accounting,8.2,Banking Executive
+B.Tech,Cyber Security,8.4,Cyber Security Analyst
+B.Tech,Cyber Security,8.0,Cyber Security Analyst
+B.Tech,Information Technology,7.8,System Engineer
+B.Tech,Information Technology,8.1,Software Developer
+B.Tech,Information Technology,7.9,Cloud Engineer
+B.Tech,Information Technology,8.2,System Engineer
+B.Tech,Information Technology,8.0,Software Developer
+B.Tech,Cloud Computing,8.3,Cloud Engineer
+B.Tech,Cloud Computing,8.6,Cloud Engineer
+B.Tech,Cloud Computing,8.2,System Engineer
+B.Tech,Cloud Computing,8.4,Cloud Engineer
+B.Tech,Cloud Computing,8.1,DevOps Engineer
+B.Tech,Blockchain,8.0,Blockchain Developer
+B.Tech,Blockchain,8.4,Blockchain Developer
+B.Tech,Blockchain,8.2,Software Developer
+B.Tech,Blockchain,8.5,Blockchain Developer
+BBA,Marketing,7.7,Marketing Executive
+BBA,Finance,7.9,Financial Advisor
+BBA,Finance,8.1,Finance Executive
+BBA,Finance,7.8,Banking Executive
+BBA,Finance,8.0,Financial Advisor
+BBA,Finance,7.7,Finance Executive
+B.Com,Accounting,7.8,Accountant
+B.Com,Accounting,8.0,Senior Accountant
+B.Com,Accounting,7.9,Audit Assistant
+B.Com,Accounting,8.1,Accountant
+B.Com,Accounting,7.7,Account Executive
+B.Des,UI/UX Design,8.3,UX Designer
+B.Des,UI/UX Design,8.1,UI Designer
+B.Des,UI/UX Design,8.2,UX Designer
+B.Des,UI/UX Design,8.4,Product Designer
+B.Des,UI/UX Design,8.0,UX Designer
+B.Arch,Architecture,8.2,Architect
+B.Arch,Architecture,8.4,Architect
+B.Arch,Architecture,8.1,Urban Planner
+B.Arch,Architecture,8.3,Architect
+B.Arch,Architecture,8.0,Architect
+B.Pharm,Pharmacy,8.1,Pharmacist
+B.Pharm,Pharmacy,8.3,Clinical Pharmacist
+B.Pharm,Pharmacy,8.2,Pharmacist
+B.Pharm,Pharmacy,8.0,Medical Representative
+B.Pharm,Pharmacy,8.4,Pharmacist
+B.Com,Accounting,7.8,Senior Accountant
+B.Com,Accounting,8.0,Financial Analyst
+B.Com,Accounting,7.9,Audit Assistant
+B.Com,Accounting,8.2,Banking Executive
+B.Tech,Cyber Security,8.4,Cyber Security Analyst
+B.Tech,Cyber Security,8.0,Cyber Security Analyst
+B.Tech,Information Technology,7.8,System Engineer
+B.Tech,Information Technology,8.1,Software Developer
+B.Tech,Information Technology,7.9,Cloud Engineer
+B.Tech,Information Technology,8.2,System Engineer
+B.Tech,Information Technology,8.0,Software Developer
+B.Tech,Cloud Computing,8.3,Cloud Engineer
+B.Tech,Cloud Computing,8.6,Cloud Engineer
+B.Tech,Cloud Computing,8.2,System Engineer
+B.Tech,Cloud Computing,8.4,Cloud Engineer
+B.Tech,Cloud Computing,8.1,DevOps Engineer
+B.Tech,Blockchain,8.0,Blockchain Developer
+B.Tech,Blockchain,8.4,Blockchain Developer
+B.Tech,Blockchain,8.2,Software Developer
+B.Tech,Blockchain,8.5,Blockchain Developer
+B.Tech,Computer Science,8.2,Software Engineer
+B.Tech,Computer Science,7.9,Backend Developer
+B.Tech,Computer Science,8.7,Full Stack Developer
+B.Tech,Information Technology,8.1,System Engineer
+B.Tech,Information Technology,7.6,Network Engineer
+B.Tech,AI & ML,8.9,ML Engineer
+B.Tech,AI & ML,8.4,AI Engineer
+B.Sc,Data Science,8.0,Data Analyst
+B.Sc,Data Science,8.6,Data Scientist
+B.Sc,Statistics,7.8,Data Analyst
+B.Sc,Statistics,8.2,Business Analyst
+BCA,Computer Applications,7.5,Web Developer
+BCA,Computer Applications,8.1,Frontend Developer
+BCA,Computer Applications,8.4,Backend Developer
+MBA,Finance,8.3,Financial Analyst
+MBA,Finance,8.7,Investment Analyst
+MBA,Finance,7.9,Banking Executive
+MBA,Marketing,8.2,Marketing Manager
+MBA,Marketing,7.8,Sales Manager
+MBA,Marketing,8.5,Digital Marketing Executive
+MBA,HR,7.6,HR Executive
+MBA,HR,8.2,HR Manager
+MBA,HR,8.0,Talent Acquisition Specialist
+B.Com,Accounting,7.6,Accountant
+B.Com,Accounting,8.4,Senior Accountant
+B.Com,Finance,7.9,Financial Analyst
+B.Com,Finance,8.1,Investment Executive
+BBA,Marketing,7.5,Sales Executive
+BBA,Marketing,8.0,Marketing Executive
+BBA,Marketing,8.3,Business Development Executive
+B.Tech,Electronics,7.8,Embedded Engineer
+B.Tech,Electronics,8.2,Electronics Engineer
+B.Tech,Electronics,7.4,Hardware Engineer
+B.Tech,Mechanical,7.7,Mechanical Engineer
+B.Tech,Mechanical,8.3,Production Engineer
+B.Tech,Mechanical,7.9,Design Engineer
+B.Tech,Civil,7.5,Site Engineer
+B.Tech,Civil,8.1,Project Engineer
+B.Tech,Civil,8.4,Construction Engineer
+Diploma,Computer Science,7.2,Software Technician
+Diploma,Computer Science,7.8,IT Support Technician
+Diploma,Civil Engineering,7.9,Site Supervisor
+Diploma,Civil Engineering,8.3,Construction Supervisor
+IT,Design,7.0,Graphic Designer
+IT,Design,7.8,UI Designer
+IT,Design,8.2,UX Designer
+B.Sc,Mathematics,8.1,Data Analyst
+B.Sc,Mathematics,7.9,Statistician
+B.Sc,Mathematics,8.4,Research Analyst
+MBA,Operations,8.0,Operations Manager
+MBA,Operations,7.7,Supply Chain Analyst
+MBA,Operations,8.5,Logistics Manager
+B.Tech,Information Technology,8.4,Cloud Engineer
+B.Tech,Information Technology,8.6,DevOps Engineer
+B.Tech,Computer Science,8.8,Software Developer
+B.Tech,Computer Science,7.7,QA Engineer
+B.Tech,Computer Science,8.3,Application Developer
+BCA,Computer Applications,7.8,Web Designer
+BCA,Computer Applications,8.2,Software Developer
+BCA,Computer Applications,7.6,IT Support Engineer
+B.Com,Business Administration,7.7,Office Executive
+B.Com,Business Administration,8.0,Business Analyst
+BBA,Finance,7.8,Financial Executive
+BBA,Finance,8.1,Banking Executive
+B.Tech,AI & ML,8.7,AI Research Assistant
+B.Tech,AI & ML,8.3,Deep Learning Engineer
+B.Sc,Data Science,7.9,Data Engineer
+B.Sc,Data Science,8.4,Machine Learning Analyst
+MBA,Marketing,8.6,Brand Manager
+MBA,Marketing,7.9,Advertising Executive
+B.Tech,Mechanical,8.1,Automobile Engineer
+B.Tech,Mechanical,7.8,Maintenance Engineer
+B.Tech,Electronics,8.5,Robotics Engineer
+B.Tech,Electronics,7.9,Instrumentation Engineer
+Diploma,Mechanical Engineering,7.6,Maintenance Technician
+Diploma,Mechanical Engineering,8.0,Production Supervisor
+B.Sc,Statistics,8.3,Data Scientist
+B.Sc,Statistics,7.7,Market Research Analyst
+Degree,Specialization,CGPA,JobRole
+B.Tech,Computer Science,8.2,Software Developer
+B.Tech,Computer Science,7.9,Software Developer
+B.Tech,Computer Science,8.5,AI Engineer
+B.Tech,Computer Science,7.8,System Engineer
+B.Tech,Computer Science,8.9,Software Developer
+B.Tech,Artificial Intelligence,8.7,AI Engineer
+B.Tech,Artificial Intelligence,8.3,ML Engineer
+B.Tech,Artificial Intelligence,9.1,AI Engineer
+B.Tech,Artificial Intelligence,8.4,ML Engineer
+B.Tech,Artificial Intelligence,8.8,AI Engineer
+B.Tech,Machine Learning,8.6,ML Engineer
+B.Tech,Machine Learning,8.1,Data Scientist
+B.Tech,Machine Learning,8.9,ML Engineer
+B.Tech,Machine Learning,8.3,AI Engineer
+B.Tech,Machine Learning,8.5,ML Engineer
+B.Tech,Data Science,8.4,Data Scientist
+B.Tech,Data Science,8.2,Data Analyst
+B.Tech,Data Science,8.7,Data Scientist
+B.Tech,Data Science,8.1,Data Analyst
+B.Tech,Data Science,8.9,Data Scientist
+B.Tech,Cyber Security,7.9,Cyber Security Analyst
+B.Tech,Cyber Security,8.3,Cyber Security Analyst
+B.Tech,Cyber Security,8.1,System Security Engineer
+B.Tech,Cyber Security,8.4,Cyber Security Analyst
+B.Tech,Cyber Security,8.0,Cyber Security Analyst
+B.Tech,Information Technology,7.8,System Engineer
+B.Tech,Information Technology,8.1,Software Developer
+B.Tech,Information Technology,7.9,Cloud Engineer
+B.Tech,Information Technology,8.2,System Engineer
+B.Tech,Information Technology,8.0,Software Developer
+B.Tech,Cloud Computing,8.3,Cloud Engineer
+B.Tech,Cloud Computing,8.6,Cloud Engineer
+B.Tech,Cloud Computing,8.2,System Engineer
+B.Tech,Cloud Computing,8.4,Cloud Engineer
+B.Tech,Cloud Computing,8.1,DevOps Engineer
+B.Tech,Blockchain,8.0,Blockchain Developer
+B.Tech,Blockchain,8.4,Blockchain Developer
+B.Tech,Blockchain,8.2,Software Developer
+B.Tech,Blockchain,8.5,Blockchain Developer
+B.Tech,Blockchain,8.3,Blockchain Developer
+B.Tech,Internet of Things,8.2,IoT Engineer
+B.Tech,Internet of Things,8.5,IoT Engineer
+B.Tech,Internet of Things,8.1,Embedded Engineer
+B.Tech,Internet of Things,8.4,IoT Engineer
+B.Tech,Internet of Things,8.3,IoT Engineer
+B.Tech,Robotics,8.6,Robotics Engineer
+B.Tech,Robotics,8.2,Robotics Engineer
+B.Tech,Robotics,8.4,Automation Engineer
+B.Tech,Robotics,8.1,Robotics Engineer
+B.Tech,Robotics,8.5,Robotics Engineer
+BCA,Web Development,7.8,Web Developer
+BCA,Web Development,8.1,Frontend Developer
+BCA,Web Development,8.0,Backend Developer
+BCA,Web Development,7.9,Web Developer
+BCA,Web Development,8.2,Frontend Developer
+BCA,Database Management,7.7,Database Administrator
+BCA,Database Management,8.0,Database Administrator
+BCA,Database Management,7.9,Data Analyst
+BCA,Database Management,8.1,Database Administrator
+BCA,Database Management,7.8,Database Administrator
+BCA,Mobile App Development,8.2,Mobile App Developer
+BCA,Mobile App Development,8.0,Mobile App Developer
+BCA,Mobile App Development,7.9,Android Developer
+BCA,Mobile App Development,8.1,Mobile App Developer
+BCA,Mobile App Development,7.8,Mobile App Developer
+BCA,Networking,7.6,Network Engineer
+BCA,Networking,7.9,System Administrator
+BCA,Networking,7.8,Network Engineer
+BCA,Networking,8.0,Network Engineer
+BCA,Networking,7.7,Network Engineer
+B.Sc,Computer Science,8.0,System Engineer
+B.Sc,Computer Science,8.2,Software Developer
+B.Sc,Computer Science,7.9,System Engineer
+B.Sc,Computer Science,8.1,Software Developer
+B.Sc,Computer Science,8.3,System Engineer
+B.Sc,Data Analytics,8.4,Data Analyst
+B.Sc,Data Analytics,8.2,Data Analyst
+B.Sc,Data Analytics,8.1,Business Analyst
+B.Sc,Data Analytics,8.3,Data Analyst
+B.Sc,Data Analytics,8.0,Data Analyst
+B.Sc,Artificial Intelligence,8.5,AI Engineer
+B.Sc,Artificial Intelligence,8.3,ML Engineer
+B.Sc,Artificial Intelligence,8.4,AI Engineer
+B.Sc,Artificial Intelligence,8.2,ML Engineer
+B.Sc,Artificial Intelligence,8.6,AI Engineer
+B.Sc,Machine Learning,8.4,ML Engineer
+B.Sc,Machine Learning,8.1,Data Scientist
+B.Sc,Machine Learning,8.3,ML Engineer
+B.Sc,Machine Learning,8.2,AI Engineer
+B.Sc,Machine Learning,8.5,ML Engineer
+MBA,Marketing,8.1,Marketing Manager
+MBA,Marketing,8.3,Digital Marketing Manager
+MBA,Marketing,8.2,Brand Manager
+MBA,Marketing,8.4,Marketing Manager
+MBA,Marketing,8.0,Sales Manager
+MBA,Finance,8.2,Financial Analyst
+MBA,Finance,8.4,Investment Analyst
+MBA,Finance,8.1,Finance Manager
+MBA,Finance,8.3,Financial Analyst
+MBA,Finance,8.0,Banking Manager
+MBA,Business Analytics,8.5,Business Analyst
+MBA,Business Analytics,8.3,Data Analyst
+MBA,Business Analytics,8.4,Business Analyst
+MBA,Business Analytics,8.2,Operations Analyst
+MBA,Business Analytics,8.6,Business Analyst
+MBA,Human Resources,7.9,HR Manager
+MBA,Human Resources,8.1,Talent Acquisition Manager
+MBA,Human Resources,8.0,HR Manager
+MBA,Human Resources,8.2,HR Manager
+MBA,Human Resources,7.8,HR Executive
+BBA,Marketing,7.8,Sales Executive
+BBA,Marketing,8.0,Marketing Executive
+BBA,Marketing,7.9,Digital Marketing Executive
+BBA,Marketing,8.1,Sales Executive
+BBA,Marketing,7.7,Marketing Executive
+BBA,Finance,7.9,Financial Advisor
+BBA,Finance,8.1,Finance Executive
+BBA,Finance,7.8,Banking Executive
+BBA,Finance,8.0,Financial Advisor
+BBA,Finance,7.7,Finance Executive
+B.Com,Accounting,7.8,Accountant
+B.Com,Accounting,8.0,Senior Accountant
+B.Com,Accounting,7.9,Audit Assistant
+B.Com,Accounting,8.1,Accountant
+B.Com,Accounting,7.7,Account Executive
+B.Des,UI/UX Design,8.3,UX Designer
+B.Des,UI/UX Design,8.1,UI Designer
+B.Des,UI/UX Design,8.2,UX Designer
+B.Des,UI/UX Design,8.4,Product Designer
+B.Des,UI/UX Design,8.0,UX Designer
+B.Arch,Architecture,8.2,Architect
+B.Arch,Architecture,8.4,Architect
+B.Arch,Architecture,8.1,Urban Planner
+B.Arch,Architecture,8.3,Architect
+B.Arch,Architecture,8.0,Architect
+B.Pharm,Pharmacy,8.1,Pharmacist
+B.Pharm,Pharmacy,8.3,Clinical Pharmacist
+B.Pharm,Pharmacy,8.2,Pharmacist
+B.Pharm,Pharmacy,8.0,Medical Representative
+B.Pharm,Pharmacy,8.4,Pharmacist
+B.Com,Accounting,7.8,Senior Accountant
+B.Com,Accounting,8.0,Financial Analyst
+B.Com,Accounting,7.9,Audit Assistant
+B.Com,Accounting,8.2,Banking Executive
+B.Tech,Cyber Security,8.4,Cyber Security Analyst
+B.Tech,Cyber Security,8.0,Cyber Security Analyst
+B.Tech,Information Technology,7.8,System Engineer
+B.Tech,Information Technology,8.1,Software Developer
+B.Tech,Information Technology,7.9,Cloud Engineer
+B.Tech,Information Technology,8.2,System Engineer
+B.Tech,Information Technology,8.0,Software Developer
+B.Tech,Cloud Computing,8.3,Cloud Engineer
+B.Tech,Cloud Computing,8.6,Cloud Engineer
+B.Tech,Cloud Computing,8.2,System Engineer
+B.Tech,Cloud Computing,8.4,Cloud Engineer
+B.Tech,Cloud Computing,8.1,DevOps Engineer
+B.Tech,Blockchain,8.0,Blockchain Developer
+B.Tech,Blockchain,8.4,Blockchain Developer
+B.Tech,Blockchain,8.2,Software Developer
+B.Tech,Blockchain,8.5,Blockchain Developer
+BBA,Marketing,7.7,Marketing Executive
+BBA,Finance,7.9,Financial Advisor
+BBA,Finance,8.1,Finance Executive
+BBA,Finance,7.8,Banking Executive
+BBA,Finance,8.0,Financial Advisor
+BBA,Finance,7.7,Finance Executive
+B.Com,Accounting,7.8,Accountant
+B.Com,Accounting,8.0,Senior Accountant
+B.Com,Accounting,7.9,Audit Assistant
+B.Com,Accounting,8.1,Accountant
+B.Com,Accounting,7.7,Account Executive
+B.Des,UI/UX Design,8.3,UX Designer
+B.Des,UI/UX Design,8.1,UI Designer
+B.Des,UI/UX Design,8.2,UX Designer
+B.Des,UI/UX Design,8.4,Product Designer
+B.Des,UI/UX Design,8.0,UX Designer
+B.Arch,Architecture,8.2,Architect
+B.Arch,Architecture,8.4,Architect
+B.Arch,Architecture,8.1,Urban Planner
+B.Arch,Architecture,8.3,Architect
+B.Arch,Architecture,8.0,Architect
+B.Pharm,Pharmacy,8.1,Pharmacist
+B.Pharm,Pharmacy,8.3,Clinical Pharmacist
+B.Pharm,Pharmacy,8.2,Pharmacist
+B.Pharm,Pharmacy,8.0,Medical Representative
+B.Pharm,Pharmacy,8.4,Pharmacist
+B.Com,Accounting,7.8,Senior Accountant
+B.Com,Accounting,8.0,Financial Analyst
+B.Com,Accounting,7.9,Audit Assistant
+B.Com,Accounting,8.2,Banking Executive
+B.Tech,Cyber Security,8.4,Cyber Security Analyst
+B.Tech,Cyber Security,8.0,Cyber Security Analyst
+B.Tech,Information Technology,7.8,System Engineer
+B.Tech,Information Technology,8.1,Software Developer
+B.Tech,Information Technology,7.9,Cloud Engineer
+B.Tech,Information Technology,8.2,System Engineer
+B.Tech,Information Technology,8.0,Software Developer
+B.Tech,Cloud Computing,8.3,Cloud Engineer
+B.Tech,Cloud Computing,8.6,Cloud Engineer
+B.Tech,Cloud Computing,8.2,System Engineer
+B.Tech,Cloud Computing,8.4,Cloud Engineer
+B.Tech,Cloud Computing,8.1,DevOps Engineer
+B.Tech,Blockchain,8.0,Blockchain Developer
+B.Tech,Blockchain,8.4,Blockchain Developer
+B.Tech,Blockchain,8.2,Software Developer
+B.Tech,Blockchain,8.5,Blockchain Developer

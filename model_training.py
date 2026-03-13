@@ -1,40 +1,47 @@
 import pandas as pd
-from sklearn.preprocessing import LabelEncoder
-from sklearn.model_selection import train_test_split
-from sklearn.tree import DecisionTreeClassifier
-from sklearn.metrics import accuracy_score, confusion_matrix
+import pickle
 
-# Load Dataset
+from sklearn.preprocessing import LabelEncoder
+from sklearn.ensemble import RandomForestClassifier
+
+# ---------------- LOAD DATASET ---------------- #
+
 df = pd.read_csv("job_dataset.csv")
 
-# Encoding
-le_degree = LabelEncoder()
-le_specialization = LabelEncoder()
-le_job = LabelEncoder()
+# ---------------- ENCODERS ---------------- #
 
-df['Degree'] = le_degree.fit_transform(df['Degree'])
-df['Specialization'] = le_specialization.fit_transform(df['Specialization'])
-df['JobRole'] = le_job.fit_transform(df['JobRole'])
+degree_encoder = LabelEncoder()
+spec_encoder = LabelEncoder()
+job_encoder = LabelEncoder()
 
-# Features and Target
-X = df[['Degree', 'Specialization', 'CGPA']]
-y = df['JobRole']
+df["Degree"] = degree_encoder.fit_transform(df["Degree"])
+df["Specialization"] = spec_encoder.fit_transform(df["Specialization"])
+df["JobRole"] = job_encoder.fit_transform(df["JobRole"])
 
-# Train-Test Split
-X_train, X_test, y_train, y_test = train_test_split(
-    X, y, test_size=0.2, random_state=42
+# ---------------- FEATURES & TARGET ---------------- #
+
+X = df[["Degree","Specialization","CGPA"]]
+y = df["JobRole"]
+
+# ---------------- MODEL ---------------- #
+
+model = RandomForestClassifier(
+    n_estimators=200,
+    random_state=42
 )
 
-# Train Model
-model = DecisionTreeClassifier()
-model.fit(X_train, y_train)
+model.fit(X, y)
 
-# Prediction
-y_pred = model.predict(X_test)
+# ---------------- SAVE MODEL ---------------- #
 
-# Evaluation
-accuracy = accuracy_score(y_test, y_pred)
-print("Model Accuracy:", accuracy)
+pickle.dump(model, open("model.pkl","wb"))
+pickle.dump(degree_encoder, open("degree_encoder.pkl","wb"))
+pickle.dump(spec_encoder, open("spec_encoder.pkl","wb"))
+pickle.dump(job_encoder, open("job_encoder.pkl","wb"))
 
-cm = confusion_matrix(y_test, y_pred)
-print("Confusion Matrix:\n", cm)
+print("Model training completed successfully!")
+print("Files created:")
+print("model.pkl")
+print("degree_encoder.pkl")
+print("spec_encoder.pkl")
+print("job_encoder.pkl")
