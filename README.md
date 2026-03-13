@@ -17,27 +17,35 @@ The project also includes a simple web application created using Streamlit where
 ## Project Files
 
 model_training.py
+
 Used to train the machine learning model using the dataset.
 
 streamlit_app.py
+
 Used to create the web application interface for job prediction.
 
 job_dataset.csv
+
 Dataset used to train the machine learning model.
 
 model.pkl
+
 Saved machine learning model used for prediction.
 
 degree_encoder.pkl
+
 Encoder used for degree values.
 
 spec_encoder.pkl
+
 Encoder used for specialization values.
 
 job_encoder.pkl
+
 Encoder used for job labels.
 
 users.csv
+
 File used to store user details.
 
 ## How to Run the Project
