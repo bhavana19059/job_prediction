@@ -2,66 +2,112 @@ import streamlit as st
 import pandas as pd
 import pickle
 import os
+import plotly.express as px
 
 st.set_page_config(page_title="Job Prediction System", page_icon="🎓")
 
 st.markdown("""
 <style>
 
+/* Page background */
 .stApp{
 background-color:#0A2A4A;
 }
 
-h1,h2,h3,h4,h5,h6{
+/* Make content wider and centered */
+.main .block-container{
+max-width:1200px;
+padding-top:2rem;
+padding-bottom:2rem;
+}
+
+/* Main title */
+h1{
+font-size:60px !important;
+color:white !important;
+text-align:center;
+}
+
+/* Section titles */
+h2{
+font-size:44px !important;
 color:white !important;
 }
 
+/* Sub titles */
+h3{
+font-size:34px !important;
+color:white !important;
+}
+
+/* Labels */
 label{
 color:white !important;
+font-size:24px !important;
 }
 
+/* Input fields */
+.stTextInput input{
+font-size:20px !important;
+height:45px !important;
+}
+
+/* Dropdown text */
+.stSelectbox div[data-baseweb="select"] > div{
+color:black !important;
+font-size:20px !important;
+}
+
+/* Dropdown options */
+div[data-baseweb="popover"] *{
+color:black !important;
+font-size:18px !important;
+}
+
+/* Slider */
+.stSlider{
+font-size:20px !important;
+}
+
+/* Buttons */
 div.stButton > button{
 background-color:#1E90FF;
 color:white;
 border-radius:8px;
 border:none;
-padding:10px 20px;
+padding:14px 28px;
 font-weight:bold;
+font-size:20px;
 }
 
+/* Button hover */
 div.stButton > button:hover{
 background-color:#1565C0;
 }
 
-/* Dropdown selected text */
-.stSelectbox div[data-baseweb="select"] > div{
-color:black !important;
-}
-
-/* Dropdown options text */
-div[data-baseweb="popover"] *{
-color:black !important;
-}
-
-/* Sidebar */
+/* Sidebar text */
 section[data-testid="stSidebar"] *{
 color:black !important;
+font-size:18px !important;
 }
 
-/* Prediction box */
+/* Prediction result box */
 .prediction-box{
 background-color:#0f3d5c;
-padding:15px;
+padding:20px;
 border-radius:10px;
-font-size:20px;
+font-size:26px;
 font-weight:bold;
 color:#ffffff;
 }
 
+/* Table text */
+.dataframe{
+font-size:18px !important;
+}
+
 </style>
 """, unsafe_allow_html=True)
-
-
 # Load dataset
 df = pd.read_csv("job_dataset.csv")
 
@@ -71,11 +117,15 @@ degree_encoder = pickle.load(open("degree_encoder.pkl", "rb"))
 spec_encoder = pickle.load(open("spec_encoder.pkl", "rb"))
 job_encoder = pickle.load(open("job_encoder.pkl", "rb"))
 
-
-# Create users.csv if not exists
+# Create users.csv
 if not os.path.exists("users.csv"):
     pd.DataFrame(columns=["username","password"]).to_csv("users.csv", index=False)
 
+# Create history.csv
+if not os.path.exists("history.csv"):
+    pd.DataFrame(columns=[
+        "username","degree","specialization","cgpa","skills","certificates","predicted_job"
+    ]).to_csv("history.csv", index=False)
 
 # Session states
 if "login" not in st.session_state:
@@ -100,8 +150,6 @@ def register():
 
         username = username.strip()
         password = password.strip()
-
-        users["username"] = users["username"].astype(str).str.strip()
 
         if username in users["username"].values:
             st.warning("User already exists")
@@ -129,15 +177,19 @@ def login():
 
         users = pd.read_csv("users.csv")
 
-        username = username.strip()
+        # Clean input
+        username = username.strip().lower()
         password = password.strip()
 
-        users["username"] = users["username"].astype(str).str.strip()
+        # Clean stored data
+        users["username"] = users["username"].astype(str).str.strip().str.lower()
         users["password"] = users["password"].astype(str).str.strip()
 
         if username in users["username"].values:
 
-            stored_password = users.loc[users["username"] == username, "password"].values[0]
+            stored_password = users.loc[
+                users["username"] == username, "password"
+            ].values[0]
 
             if stored_password == password:
                 st.session_state.login = True
@@ -150,7 +202,6 @@ def login():
 
         else:
             st.error("User not found")
-
 
 # ---------------- DASHBOARD ---------------- #
 
@@ -166,7 +217,9 @@ def dashboard():
             st.session_state.login = False
             st.session_state.page = "Login"
             st.rerun()
+
     st.subheader(f"Welcome, {st.session_state.username} 👋")
+
     st.subheader("Academic Details")
 
     col1, col2 = st.columns(2)
@@ -179,21 +232,8 @@ def dashboard():
 
     cgpa = st.slider("CGPA", 0.0, 10.0, 7.0)
 
-
-    # -------- NEW INPUTS -------- #
-
-    skills = st.text_input(
-        "Skills (Enter multiple skills separated by commas)",
-        placeholder="Python, Java, SQL, Machine Learning"
-    )
-
-    certificates = st.text_input(
-        "Certificates (Enter multiple certificates separated by commas)",
-        placeholder="AWS, Coursera ML, Google Data Analytics"
-    )
-
-
-    # -------- PREDICTION -------- #
+    skills = st.text_input("Skills", placeholder="Python, Java, SQL")
+    certificates = st.text_input("Certificates", placeholder="AWS, Coursera ML")
 
     if st.button("Predict Job Role"):
 
@@ -203,18 +243,29 @@ def dashboard():
         input_data = [[degree_encoded, spec_encoded, cgpa]]
 
         prediction = model.predict(input_data)
-
         job = job_encoder.inverse_transform(prediction)
 
-        st.markdown(
-            f"""
-            <div class="prediction-box">
-            Predicted Job Role: {job[0]}
-            </div>
-            """,
-            unsafe_allow_html=True
-        )
+        st.markdown(f"""
+        <div class="prediction-box">
+        Predicted Job Role: {job[0]}
+        </div>
+        """, unsafe_allow_html=True)
 
+        # Save history
+        history = pd.read_csv("history.csv")
+
+        new_data = pd.DataFrame([{
+            "username": st.session_state.username,
+            "degree": degree,
+            "specialization": specialization,
+            "cgpa": cgpa,
+            "skills": skills,
+            "certificates": certificates,
+            "predicted_job": job[0]
+        }])
+
+        history = pd.concat([history,new_data], ignore_index=True)
+        history.to_csv("history.csv", index=False)
 
     # ---------------- DATASET INSIGHTS ---------------- #
 
@@ -229,7 +280,19 @@ def dashboard():
     st.bar_chart(job_counts)
 
     st.write("CGPA Distribution")
-    st.line_chart(df["CGPA"])
+
+    cgpa_counts = df["CGPA"].value_counts().reset_index()
+    cgpa_counts.columns = ["CGPA","Count"]
+
+    fig = px.pie(cgpa_counts, names="CGPA", values="Count", hole=0.3)
+    st.plotly_chart(fig)
+
+    # ---------------- HISTORY ---------------- #
+
+    st.subheader("📜 Prediction History")
+
+    history = pd.read_csv("history.csv")
+    st.dataframe(history)
 
 
 # ---------------- MAIN ---------------- #

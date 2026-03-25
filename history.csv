@@ -1,0 +1,9 @@
+username,degree,specialization,cgpa,skills,certificates,predicted_job
+anu,B.Tech,Computer Science,7.0,"python,java",data structure algorithm ,Software Technician
+bhavana,BBA,Statistics,7.0,data structure,AWS,Maintenance Technician
+roshini,MBA,HR,8.61,"python,C++,OOPS","AWS,DSA",HR Manager
+roshini,B.Tech,Computer Applications,7.7,python,DSA,QA Engineer
+kavya,BBA,Finance,8.87,"python,java,OOPS",DSA,Investment Analyst
+kavya,B.Tech,Computer Science,7.27,"python,java",DSA,Software Technician
+bhuvi,MBA,Information Technology,9.13,C++,ML,Brand Manager
+bhavana patil,B.Tech,Data Science,8.86,java,dsa,Software Developer

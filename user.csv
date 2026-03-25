@@ -1,1 +1,7 @@
-username,password
+username,email,password
+
+# Create history.csv if not exists
+if not os.path.exists("history.csv"):
+    pd.DataFrame(columns=[
+        "username","degree","specialization","cgpa","skills","certificates","predicted_job"
+    ]).to_csv("history.csv", index=False)
