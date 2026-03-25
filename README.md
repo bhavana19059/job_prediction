@@ -50,12 +50,11 @@ File used to store user details.
 
 ## How to Run the Project
 
-1. Install required libraries
+1. Install required libraries:
+   pip install pandas scikit-learn streamlit
 
-pip install pandas scikit-learn streamlit
+2. Run the Streamlit application:
+   streamlit run streamlit_app.py
 
-2. Run the Streamlit application
-
-streamlit run streamlit_app.py
-
-3. Open the browser link shown in the terminal to use the application.
+3. After running the command, a local URL (e.g., http://localhost:8501) will appear in the terminal.
+   Open this URL in your browser to use the application.
